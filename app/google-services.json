@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "145205429349",
+    "firebase_url": "https://launch-mac-default-rtdb.firebaseio.com",
+    "project_id": "launch-mac",
+    "storage_bucket": "launch-mac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145205429349:android:c21bac8ba602706816b28c",
+        "android_client_info": {
+          "package_name": "com.diamant.launchmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145205429349-tjvqiu1evalcbgphgjh80ldbd6n95apj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoc3Z7qnfohv0pAXV81MBzW0TveTVnNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145205429349-tjvqiu1evalcbgphgjh80ldbd6n95apj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145205429349:android:beb74f6ed8950df916b28c",
+        "android_client_info": {
+          "package_name": "com.remo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145205429349-tjvqiu1evalcbgphgjh80ldbd6n95apj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoc3Z7qnfohv0pAXV81MBzW0TveTVnNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145205429349-tjvqiu1evalcbgphgjh80ldbd6n95apj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
